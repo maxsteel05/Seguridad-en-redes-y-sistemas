@@ -21,4 +21,5 @@
 
 Git conectado correctamente con Obsidian.
 
-sebas puto
+## sebas puto
+mi amigo sebas es algo homosexual pero si lo follo 
