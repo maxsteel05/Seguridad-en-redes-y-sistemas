@@ -251,24 +251,24 @@ error[E0425]: cannot find value `ret` in this scope
 
 For more information about this error, try `rustc --explain E0425`.
 error: could not compile `rust_proj` (bin "rust_proj") due to 3 previous errors
-                                    
+   
 ┌──(kali㉿kali)-[~/fixme1]
 └─$ cd src     
-                                    
+  
 ┌──(kali㉿kali)-[~/fixme1/src]
 └─$ nano main.rs
-                                                                            
+
 ┌──(kali㉿kali)-[~/fixme1/src]
 └─$ cargo build 
    Compiling rust_proj v0.1.0 (/home/kali/fixme1)
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.36s
-                                                                            
+   
 ┌──(kali㉿kali)-[~/fixme1/src]
 └─$ cargo run  
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.00s
      Running `/home/kali/fixme1/target/debug/rust_proj`
 picoCTF{4r3_y0u_4_ru$t4c30n_n0w?}:?
-                                                                            
+  
 ┌──(kali㉿kali)-[~/fixme1/src]
 └─$ 
 
